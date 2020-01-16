@@ -10,14 +10,14 @@ import os
 # === CONFIG ===
 
 # You will need to name your plugin something different
-plugin_name = 'Coda Plugin Skeleton'
+plugin_name = 'ZeusbasePluginTemplate'
 
 # Update this info by hand; defines the required Info.plist elements
 info = dict(
-    CFBundleVersion = '0.1',
-    CFBundleIdentifier = 'com.justinhileman.codaplugin',
-    NSHumanReadableCopyright = '(c) 2009 Ian Beck under the MIT license',
-    CodaPlugInMinimumAPIVersion = '4',
+    CFBundleVersion = '1.0.0',
+    CFBundleIdentifier = 'com.zeusbase.codaplugin.ZeusbasePluginTemplate',
+    NSHumanReadableCopyright = '(c) 2018 Haralambos Yokos',
+    CodaPlugInMinimumAPIVersion = '5',
     CodaPlugInSupportedAPIVersion = '6',
 )
 
